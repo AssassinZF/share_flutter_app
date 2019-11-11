@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/share_app.iml" filepath="$PROJECT_DIR$/share_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/share_app_android.iml" filepath="$PROJECT_DIR$/android/share_app_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/share_app_example_android.iml" filepath="$PROJECT_DIR$/example/android/share_app_example_android.iml" />
+    </modules>
+  </component>
+</project>
