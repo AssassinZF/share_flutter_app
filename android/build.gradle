@@ -5,6 +5,8 @@ buildscript {
     repositories {
         google()
         jcenter()
+        mavenCentral()
+
     }
 
     dependencies {
@@ -31,4 +33,9 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+}
+
+dependencies {
+    implementation 'com.facebook.android:facebook-share:[5,6)'
+//    implementation 'com.twitter.sdk.android:twitter:3.1.1' //twitter分享
 }
