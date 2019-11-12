@@ -1,8 +1,8 @@
 name: share_app
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: kris
+homepage: https://github.com/AssassinZF/share_flutter_app
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
