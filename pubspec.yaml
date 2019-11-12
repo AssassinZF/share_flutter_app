@@ -1,7 +1,7 @@
 name: share_app
 description: A new flutter plugin project.
 version: 0.0.1
-author: kris
+author: kris <zhanfengliu.cd@gmail.com>
 homepage: https://github.com/AssassinZF/share_flutter_app
 
 environment:
